@@ -1,8 +1,11 @@
 package cn.stack.Test;
 
+import org.junit.jupiter.api.Test;
+
 public class GitTest {
 	
+	@Test
 	public void gitTest() {
-		System.out.println("git修改上传测试2");
+		System.out.println("git修改上传测试3");
 	}
 }
