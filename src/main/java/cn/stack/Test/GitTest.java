@@ -7,6 +7,6 @@ public class GitTest {
 	@Test
 	public void gitTest() {
 		int i = 1;
-		System.out.println("gitĞŞ¸Ä6==="+i);
+		System.out.println("ĞŞ¸Ä´úÂë7");
 	}
 }
